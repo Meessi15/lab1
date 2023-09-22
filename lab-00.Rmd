@@ -59,7 +59,7 @@ p1 + labs(x = "eman",
           title = "puorg")
 ```
 
-*Remove this text (including the stars), and add your answer for Exercise 19 here.*
+the labs() function is used to change the label of x-axis and y-axis of the graph
 
 ### Exercise 20
 
@@ -69,4 +69,4 @@ p2 <- ggplot(team_data, aes(x = hobby)) +
 p2
 ```
 
-*Remove this text (including the stars) and add your answer for Exercise 20 here.*
+Everyone is different, the garph is too useless to count everyone's hobby. The most efficient way is to create a large bar chart which only contains a large group i.e. sports, arts and others. Then, in each big group we can count down the different hobbys each people like. That should be a  more effecient way. 
