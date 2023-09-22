@@ -47,7 +47,7 @@ p1
 ```
 
 
-*Remove this text (including the stars), and add your answer for Exercise 18 here.*
+this code can create a bar chart with the data from the 'team_data'. Also, the code named the x-axis as github_username and the y-axis as favourite_number. Also the 'fill = colour' can define the colour of the bars in bar chart
 
 ### Exercises 19
 
